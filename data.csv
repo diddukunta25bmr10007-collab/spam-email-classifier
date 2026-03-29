@@ -1,0 +1,32 @@
+text,label
+"Win money now",spam
+"Limited offer click now",spam
+"Congratulations you won prize",spam
+"Free entry in contest",spam
+"Get rich quick scheme",spam
+"Earn cash fast from home",spam
+"Exclusive deal just for you",spam
+"Claim your reward now",spam
+"Click here to win iPhone",spam
+"You have been selected for prize",spam
+"Urgent response needed claim now",spam
+"Cheap loans available instantly",spam
+"Work from home and earn money",spam
+"Lottery winner announcement",spam
+"Special discount limited time",spam
+
+"Hello how are you",ham
+"Let's meet tomorrow",ham
+"Project meeting at 5pm",ham
+"Call me when free",ham
+"Important update about your account",ham
+"Can you send me the notes",ham
+"See you at the class",ham
+"Please review the document",ham
+"Let's have lunch today",ham
+"Reminder for assignment submission",ham
+"Your order has been shipped",ham
+"Meeting rescheduled to tomorrow",ham
+"Thanks for your help",ham
+"Join the call at 6pm",ham
+"Happy birthday have a great day",ham
